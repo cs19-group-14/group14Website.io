@@ -1,2 +1,2 @@
-# This is the website for a Smart Septic Tank Monitoring System
+# This is the website for the Smart Septic Tank Monitoring System
 
