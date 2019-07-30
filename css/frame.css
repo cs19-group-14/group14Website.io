@@ -97,13 +97,13 @@ hr {
 }
 
 .logo {
-  margin-left: 20px;
+  margin-left: 0px;
 }
 
 .logo a {
   color: rgba(255, 255, 255, 0.8);
   font-family: 'Open Sans Condensed', Helvetica, Arial, sans-serif;
-  font-size: 30px;
+  font-size: /*30px*/ 25px;
   text-decoration: none;
   font-weight: 700;
   flex: 1 auto;
